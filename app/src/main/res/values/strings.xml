@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="usdbdt">USD-BDT</string>
+    <string name="bdtusd">BDT-USD</string>
+    <string name="convertbutton">Convert</string>
+    <string name="reconnect">Reconnect</string>
+
+</resources>
